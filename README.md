@@ -46,7 +46,13 @@ Me chamo Jéssica Miranda Carvalho, tenho 20 anos e moro em São Paulo. Desenvol
 
 <br> <br>
 
-
-
-
+### 💡 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jessicarvalho25&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
 
