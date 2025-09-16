@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend com interesse em Machine Learning`**
 
-Me chamo Jéssica Miranda Carvalho, tenho 20 anos e moro em São Paulo. Desenvolvi meu amor pela técnologia no ensino médio e hoje estou cursando Sistemas de Informação na USP. Amo aprender coisas novas e atuar em projetos e inciativas de impacto real na sociedade.
+Me chamo Jéssica Miranda Carvalho, tenho 21 anos e moro em São Paulo. Desenvolvi meu amor pela técnologia no ensino médio e hoje estou cursando Sistemas de Informação na USP. Amo aprender coisas novas e atuar em projetos e inciativas de impacto real na sociedade.
 
 --- 
 
